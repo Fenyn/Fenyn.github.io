@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "FPS-Game"
     url: https://fenyn.github.io/fps-game.html
   # - title: "About"
