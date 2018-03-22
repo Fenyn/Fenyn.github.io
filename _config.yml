@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio - Anthony Knight"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : "Anthony Knight"
 description              : "Hosting for various game projects"
@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Anthony Knight"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello there"
   location         : "Portland, OR"
