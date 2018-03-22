@@ -20,9 +20,9 @@ title                    : "Portfolio - Anthony Knight"
 title_separator          : "-"
 name                     : "Anthony Knight"
 description              : "Hosting for various game projects"
-url                      : https://Fenyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" 
+url                      : https://Fenyn.github.io
 baseurl                  : #/FPS-Game # the subpath of your site, e.g. "/blog"
-repository               : Fenyn/FPS-Game # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : Fenyn/FPS-Game
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
