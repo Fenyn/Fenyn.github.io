@@ -1,9 +1,13 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "DefaultCompany",
+"productName": "FPS Game",
 "dataUrl": "FPS-Game.data.unityweb",
 "asmCodeUrl": "FPS-Game.asm.code.unityweb",
 "asmMemoryUrl": "FPS-Game.asm.memory.unityweb",
 "asmFrameworkUrl": "FPS-Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20"
 }
